@@ -1,0 +1,40 @@
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:30:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 567 ms Request ID: [c962b5cf-ed1c-43ad-b8f1-62f3905ce6b4]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:31:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 405 ms Request ID: [50e36916-738b-4a6d-8c52-810d88bebada]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:37:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 536 ms Request ID: [518b234d-7257-42af-84c1-5fc30ce9de60]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:38:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 599 ms Request ID: [1d5980f1-2aba-4789-91bf-cf157bc9db1e]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:39:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 599 ms Request ID: [a5a3b161-acfc-4b3f-9778-9cbbb14dde4f]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:40:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 584 ms Request ID: [26a13095-3dd2-4762-9978-63b7184b0e0d]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:42:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 718 ms Request ID: [0afbea5e-de9f-41f9-abc1-b1765e77064e]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:43:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 617 ms Request ID: [c2b17903-c4e3-4bb0-8f40-4188af5cf543]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:47:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 400 message:  Time response: 618 ms Request ID: [f74d4aca-177a-46b5-abda-f5cf773d5638]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 20:59:33 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"yeli@gmail.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 400 message:  Time response: 658 ms Request ID: [35bbe379-258f-427e-a767-4da7486f1ecc]
